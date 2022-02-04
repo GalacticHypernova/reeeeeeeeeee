@@ -3,7 +3,8 @@
 getgenv().settings={
    ["click"]=false,
    ["upgrade"]=false,
-   ["case"]=false
+   ["case"]=false,
+   ["stock"]=false
 }
 local args={
             [1]="22klikes!",
